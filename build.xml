@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="DistComp-Project" basedir=".">
+
+	<property file="build.properties" />
+
+	<target name="clean">
+		<delete dir="${target.java}" />
+	</target>
+
+	<target name="prepare" depends="clean">
+		<mkdir dir="${target.java}" />
+		<mkdir dir="${target.jar}" />
+	</target>
+
+	<target name="compile" depends="prepare">
+		<javac srcdir="${src.java}" destdir="${target.java}" includeantruntime="false">
+		</javac>
+	</target>
+
+	<target name="create-evaluator.jar" depends="compile">
+		<jar destfile="${evaluator.jar}" basedir="${target.java}" includes="**/*.class">
+			<manifest>
+				<attribute name="Main-Class" value="${evaluator.main}" />
+			</manifest>
+		</jar>
+	</target>
+
+
+
+</project>
