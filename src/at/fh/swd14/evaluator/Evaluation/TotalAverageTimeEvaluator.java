@@ -30,7 +30,7 @@ class TotalAverageTimeEvaluator extends CommonEvaluator
 
 			if (lines.size() >= 1)
 			{
-				String value = lines.get(0).split(" ")[3];
+				String value = lines.get(0).split(" ")[colCount-1];
 				value = value.replace(',', '.');
 				try
 				{

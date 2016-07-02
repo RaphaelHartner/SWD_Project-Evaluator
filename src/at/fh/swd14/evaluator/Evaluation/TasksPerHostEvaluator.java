@@ -37,7 +37,7 @@ class TasksPerHostEvaluator extends CommonEvaluator
 
 				for (int i = 1; i < lines.size(); i++)
 				{
-					worker = lines.get(i).split("\t")[3];
+					worker = lines.get(i).split("\t")[colCount-1];
 					if (!workerCounter.containsKey(worker))
 					{
 						workerCounter.put(worker, 1);

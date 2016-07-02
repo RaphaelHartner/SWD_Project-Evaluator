@@ -12,9 +12,9 @@ public class EvaluationManagerMain
 
 	public static void main(String[] args) throws NumberFormatException, IOException
 	{
-		if (args.length != 2)
+		if (args.length != 3)
 		{
-			System.out.println("Usage: <folder> <destination-file>");
+			System.out.println("Usage: <folder> <destination-file> <cols>");
 			return;
 		}
 
@@ -29,6 +29,7 @@ public class EvaluationManagerMain
 		Evaluator evaluator = Evaluator.createEvaluator(type);
 		evaluator.setSourceFolder(args[0]);
 		evaluator.setReportFileName(args[1]);
+		evaluator.setColCount(Integer.parseInt(args[2]));
 		evaluator.executeEvaluation();
 		
 	}

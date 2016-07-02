@@ -1,0 +1,503 @@
+Total time elapsed: 750.275187947 sec
+false		17.91355372	Hartner-PC:192.168.56.1
+false		25.548889346	Hartner-PC:192.168.56.1
+false		20.475413284	Hartner-PC:192.168.56.1
+false		39.92295285	OnePlus
+false		22.089080288	Hartner-PC:192.168.56.1
+false		18.921571019	Hartner-PC:192.168.56.1
+false		47.804350615	Hartner-Laptop:192.168.0.102
+false		24.521436611	Hartner-Laptop:192.168.0.102
+false		20.316713303	Hartner-PC:192.168.56.1
+false		23.898905612	Hartner-PC:192.168.56.1
+false		20.766542793	Hartner-PC:192.168.56.1
+false		35.475110934	Hartner-Laptop:192.168.0.102
+false		19.199740256	Hartner-PC:192.168.56.1
+false		20.198088991	Hartner-PC:192.168.56.1
+false		23.086712811	Hartner-PC:192.168.56.1
+false		21.478986736	Hartner-PC:192.168.56.1
+false		18.069067322	Hartner-PC:192.168.56.1
+false		32.440046255	Hartner-Laptop:192.168.0.102
+false		17.826721833	Hartner-PC:192.168.56.1
+false		39.969548475	OnePlus
+false		39.217744361	OnePlus
+false		22.271023212	Hartner-PC:192.168.56.1
+false		39.467250402	OnePlus
+false		20.135616492	Hartner-PC:192.168.56.1
+false		20.213890118	Hartner-PC:192.168.56.1
+false		21.392669773	Hartner-PC:192.168.56.1
+false		29.930198227	Hartner-Laptop:192.168.0.102
+false		17.791135359	Hartner-PC:192.168.56.1
+false		39.535889985	OnePlus
+false		25.039857831	Hartner-Laptop:192.168.0.102
+false		19.156951875	Hartner-PC:192.168.56.1
+false		22.666439047	Hartner-PC:192.168.56.1
+false		36.393449445	Hartner-Laptop:192.168.0.102
+false		61.453843154	LG G3
+false		61.44849107	LG G3
+false		61.602994351	LG G3
+false		61.269055966	LG G3
+false		17.565064084	Hartner-PC:192.168.56.1
+false		20.649574428	Hartner-PC:192.168.56.1
+false		23.824203621	Hartner-Laptop:192.168.0.102
+false		21.374128141	Hartner-PC:192.168.56.1
+false		19.780319335	Hartner-PC:192.168.56.1
+false		19.52967451	Hartner-PC:192.168.56.1
+false		18.090169235	Hartner-PC:192.168.56.1
+false		18.253380648	Hartner-PC:192.168.56.1
+false		24.504107977	Hartner-PC:192.168.56.1
+false		18.215136173	Hartner-PC:192.168.56.1
+false		23.815537202	Hartner-Laptop:192.168.0.102
+false		37.970939413	OnePlus
+false		38.188551912	OnePlus
+false		39.01260108	OnePlus
+false		22.305034196	Hartner-PC:192.168.56.1
+false		17.892641978	Hartner-PC:192.168.56.1
+false		24.422032591	Hartner-Laptop:192.168.0.102
+false		18.444607406	Hartner-PC:192.168.56.1
+false		37.984350038	OnePlus
+false		39.555058383	Hartner-Laptop:192.168.0.102
+false		24.225835464	Hartner-PC:192.168.56.1
+false		22.494712965	Hartner-PC:192.168.56.1
+false		44.819040976	Hartner-Laptop:192.168.0.102
+false		21.531978499	Hartner-PC:192.168.56.1
+false		26.595793309	Hartner-PC:192.168.56.1
+false		19.225969753	Hartner-PC:192.168.56.1
+false		18.971327836	Hartner-PC:192.168.56.1
+false		17.278041676	Hartner-PC:192.168.56.1
+false		18.597269034	Hartner-PC:192.168.56.1
+false		25.643898909	Hartner-Laptop:192.168.0.102
+false		19.42209706	Hartner-PC:192.168.56.1
+false		17.616621962	Hartner-PC:192.168.56.1
+false		18.849642655	Hartner-PC:192.168.56.1
+false		37.076301496	OnePlus
+false		38.348139019	Hartner-Laptop:192.168.0.102
+false		37.929171131	OnePlus
+false		38.027118423	OnePlus
+false		17.722123041	Hartner-PC:192.168.56.1
+false		24.335933697	Hartner-PC:192.168.56.1
+false		60.800407946	LG G3
+false		60.773060029	LG G3
+false		61.698341383	LG G3
+false		61.2706093	LG G3
+false		26.485861314	Hartner-Laptop:192.168.0.102
+false		19.724667816	Hartner-PC:192.168.56.1
+false		24.519954745	Hartner-PC:192.168.56.1
+false		18.135579043	Hartner-PC:192.168.56.1
+false		37.90758686	OnePlus
+false		38.980995033	Hartner-Laptop:192.168.0.102
+false		22.274920538	Hartner-PC:192.168.56.1
+false		17.291847475	Hartner-PC:192.168.56.1
+false		20.988957234	Hartner-PC:192.168.56.1
+false		23.062734934	Hartner-PC:192.168.56.1
+false		18.472319356	Hartner-PC:192.168.56.1
+false		18.001432715	Hartner-PC:192.168.56.1
+false		17.953845892	Hartner-PC:192.168.56.1
+false		24.93588355	Hartner-PC:192.168.56.1
+false		32.116823673	Hartner-Laptop:192.168.0.102
+false		17.701914638	Hartner-PC:192.168.56.1
+false		37.589973735	OnePlus
+false		20.872598	Hartner-PC:192.168.56.1
+false		19.805778786	Hartner-PC:192.168.56.1
+false		37.908181132	OnePlus
+false		38.059325142	OnePlus
+false		17.262206025	Hartner-PC:192.168.56.1
+false		18.008902616	Hartner-PC:192.168.56.1
+false		17.904900667	Hartner-PC:192.168.56.1
+false		41.944425438	Hartner-Laptop:192.168.0.102
+false		23.447453528	Hartner-PC:192.168.56.1
+false		38.561305715	OnePlus
+false		26.991570763	Hartner-PC:192.168.56.1
+false		35.729043644	Hartner-Laptop:192.168.0.102
+false		56.682128659	Hartner-Laptop:192.168.0.102
+false		19.165478832	Hartner-PC:192.168.56.1
+false		17.968998684	Hartner-PC:192.168.56.1
+false		18.354034425	Hartner-PC:192.168.56.1
+false		21.65194132	Hartner-PC:192.168.56.1
+false		62.187078308	LG G3
+false		61.532658205	LG G3
+false		32.392140394	Hartner-Laptop:192.168.0.102
+false		22.433766805	Hartner-PC:192.168.56.1
+false		18.370697464	Hartner-PC:192.168.56.1
+false		61.750124716	LG G3
+false		22.773027024	Hartner-PC:192.168.56.1
+false		63.369916434	LG G3
+false		21.87920394	Hartner-PC:192.168.56.1
+false		17.198127025	Hartner-PC:192.168.56.1
+false		19.548111986	Hartner-PC:192.168.56.1
+false		39.012816444	OnePlus
+false		39.173005609	OnePlus
+false		18.30081036	Hartner-PC:192.168.56.1
+false		40.342001547	OnePlus
+false		31.870739706	Hartner-Laptop:192.168.0.102
+false		25.978634189	Hartner-PC:192.168.56.1
+false		20.490188953	Hartner-PC:192.168.56.1
+false		20.60464063	Hartner-PC:192.168.56.1
+false		39.428344256	OnePlus
+false		21.364981521	Hartner-PC:192.168.56.1
+false		18.894888039	Hartner-PC:192.168.56.1
+false		28.290391544	Hartner-Laptop:192.168.0.102
+false		48.636965774	Hartner-Laptop:192.168.0.102
+false		22.684050013	Hartner-PC:192.168.56.1
+false		22.389664785	Hartner-PC:192.168.56.1
+false		20.9607997	Hartner-PC:192.168.56.1
+false		19.101564255	Hartner-PC:192.168.56.1
+false		20.222486998	Hartner-PC:192.168.56.1
+false		57.41122405	Hartner-Laptop:192.168.0.102
+false		22.648977585	Hartner-PC:192.168.56.1
+false		20.209976993	Hartner-PC:192.168.56.1
+false		23.854040862	Hartner-PC:192.168.56.1
+false		38.787882068	OnePlus
+false		18.001518146	Hartner-PC:192.168.56.1
+false		20.444095701	Hartner-PC:192.168.56.1
+false		38.573051755	OnePlus
+false		38.839763683	OnePlus
+false		27.325875751	Hartner-Laptop:192.168.0.102
+false		18.242597098	Hartner-PC:192.168.56.1
+false		18.303908386	Hartner-PC:192.168.56.1
+false		17.280826359	Hartner-PC:192.168.56.1
+false		26.635054757	Hartner-PC:192.168.56.1
+false		39.418963944	OnePlus
+false		63.113263726	LG G3
+false		63.45636805	LG G3
+false		63.344414143	LG G3
+false		46.456681589	Hartner-Laptop:192.168.0.102
+false		21.149579109	Hartner-PC:192.168.56.1
+false		62.410023934	LG G3
+false		18.022773366	Hartner-PC:192.168.56.1
+false		17.272114206	Hartner-PC:192.168.56.1
+false		21.074111523	Hartner-PC:192.168.56.1
+false		43.642243031	Hartner-Laptop:192.168.0.102
+false		17.428037697	Hartner-PC:192.168.56.1
+false		20.202671223	Hartner-PC:192.168.56.1
+false		37.255463715	Hartner-Laptop:192.168.0.102
+false		19.303036235	Hartner-PC:192.168.56.1
+false		24.158284533	Hartner-PC:192.168.56.1
+false		19.265250803	Hartner-PC:192.168.56.1
+false		19.441114411	Hartner-PC:192.168.56.1
+false		19.296828481	Hartner-PC:192.168.56.1
+false		38.258989985	OnePlus
+false		38.9291616	OnePlus
+false		29.169229315	Hartner-Laptop:192.168.0.102
+false		39.135970871	OnePlus
+false		20.242672581	Hartner-PC:192.168.56.1
+false		42.101150561	Hartner-Laptop:192.168.0.102
+false		21.641992765	Hartner-PC:192.168.56.1
+false		37.859456861	OnePlus
+false		22.002802529	Hartner-PC:192.168.56.1
+false		17.121211509	Hartner-PC:192.168.56.1
+false		18.319226479	Hartner-PC:192.168.56.1
+false		23.71987464	Hartner-PC:192.168.56.1
+false		23.554819449	Hartner-PC:192.168.56.1
+false		19.498691334	Hartner-PC:192.168.56.1
+false		22.685807189	Hartner-PC:192.168.56.1
+false		18.522534336	Hartner-PC:192.168.56.1
+false		39.801152614	Hartner-Laptop:192.168.0.102
+false		18.815021954	Hartner-PC:192.168.56.1
+false		16.915005746	Hartner-PC:192.168.56.1
+false		28.753373339	Hartner-Laptop:192.168.0.102
+false		49.755482104	Hartner-Laptop:192.168.0.102
+false		19.942792886	Hartner-PC:192.168.56.1
+false		24.227738632	Hartner-PC:192.168.56.1
+false		37.521975611	OnePlus
+false		63.272742736	LG G3
+false		63.666812736	LG G3
+false		63.807249975	LG G3
+false		20.408466219	Hartner-PC:192.168.56.1
+false		36.876030455	OnePlus
+false		23.697426612	Hartner-PC:192.168.56.1
+false		63.905019663	LG G3
+false		37.673575558	OnePlus
+false		19.123210641	Hartner-PC:192.168.56.1
+false		17.660320236	Hartner-PC:192.168.56.1
+false		36.734412589	OnePlus
+false		41.246887958	Hartner-Laptop:192.168.0.102
+false		22.076748457	Hartner-PC:192.168.56.1
+false		18.322272427	Hartner-PC:192.168.56.1
+false		17.581634378	Hartner-PC:192.168.56.1
+false		18.019548951	Hartner-PC:192.168.56.1
+false		25.409463005	Hartner-PC:192.168.56.1
+false		17.817039225	Hartner-PC:192.168.56.1
+false		31.727042649	Hartner-Laptop:192.168.0.102
+false		25.885922813	Hartner-PC:192.168.56.1
+false		18.287283381	Hartner-PC:192.168.56.1
+false		26.27101619	Hartner-PC:192.168.56.1
+false		42.530711155	Hartner-Laptop:192.168.0.102
+false		19.484483543	Hartner-PC:192.168.56.1
+false		18.387028143	Hartner-PC:192.168.56.1
+false		38.780764725	OnePlus
+false		19.634646329	Hartner-PC:192.168.56.1
+false		39.063046183	OnePlus
+false		25.521406771	Hartner-PC:192.168.56.1
+false		38.441344985	OnePlus
+false		18.449124981	Hartner-PC:192.168.56.1
+false		17.727382574	Hartner-PC:192.168.56.1
+false		36.309180974	Hartner-Laptop:192.168.0.102
+false		39.166861652	OnePlus
+false		18.81775573	Hartner-PC:192.168.56.1
+false		19.40044102	Hartner-PC:192.168.56.1
+false		59.332272608	Hartner-Laptop:192.168.0.102
+false		26.600053628	Hartner-Laptop:192.168.0.102
+false		20.454250225	Hartner-PC:192.168.56.1
+false		19.84748261	Hartner-PC:192.168.56.1
+false		61.039553205	LG G3
+false		60.96351633	LG G3
+false		61.314652737	LG G3
+false		24.187186072	Hartner-PC:192.168.56.1
+false		18.010365759	Hartner-PC:192.168.56.1
+false		60.568903727	LG G3
+false		29.260927856	Hartner-Laptop:192.168.0.102
+false		23.40559435	Hartner-PC:192.168.56.1
+false		21.967194405	Hartner-PC:192.168.56.1
+false		18.19967472	Hartner-PC:192.168.56.1
+false		21.314065835	Hartner-PC:192.168.56.1
+false		37.259566913	OnePlus
+false		18.101104628	Hartner-PC:192.168.56.1
+false		37.733009361	OnePlus
+false		24.213993103	Hartner-PC:192.168.56.1
+false		38.364155977	OnePlus
+false		17.837497776	Hartner-PC:192.168.56.1
+false		19.933332924	Hartner-PC:192.168.56.1
+false		29.971735456	Hartner-Laptop:192.168.0.102
+false		37.575475922	OnePlus
+false		19.761251954	Hartner-PC:192.168.56.1
+false		17.150569458	Hartner-PC:192.168.56.1
+false		25.727050799	Hartner-PC:192.168.56.1
+false		18.930066378	Hartner-PC:192.168.56.1
+false		32.960007031	Hartner-Laptop:192.168.0.102
+false		17.39765546	Hartner-PC:192.168.56.1
+false		51.501908195	Hartner-Laptop:192.168.0.102
+false		45.781369743	Hartner-Laptop:192.168.0.102
+false		23.486718194	Hartner-PC:192.168.56.1
+false		20.396316951	Hartner-PC:192.168.56.1
+false		21.867627818	Hartner-PC:192.168.56.1
+false		19.064646002	Hartner-PC:192.168.56.1
+false		17.924044114	Hartner-PC:192.168.56.1
+false		19.711156635	Hartner-PC:192.168.56.1
+false		19.815545947	Hartner-PC:192.168.56.1
+false		37.477557952	OnePlus
+false		37.560555194	OnePlus
+false		21.540485561	Hartner-PC:192.168.56.1
+false		38.197918527	OnePlus
+false		17.464650507	Hartner-PC:192.168.56.1
+false		60.108467998	LG G3
+false		21.558831756	Hartner-PC:192.168.56.1
+false		60.88813357	LG G3
+false		61.043227217	LG G3
+false		20.595194419	Hartner-PC:192.168.56.1
+false		60.093193883	LG G3
+false		17.269632626	Hartner-PC:192.168.56.1
+false		39.533227017	OnePlus
+false		16.629661812	Hartner-PC:192.168.56.1
+false		30.032769457	Hartner-Laptop:192.168.0.102
+false		30.061141769	Hartner-Laptop:192.168.0.102
+false		23.699746693	Hartner-PC:192.168.56.1
+false		23.444832099	Hartner-PC:192.168.56.1
+false		18.23230097	Hartner-PC:192.168.56.1
+false		17.950350265	Hartner-PC:192.168.56.1
+false		21.346592611	Hartner-PC:192.168.56.1
+false		20.767500082	Hartner-PC:192.168.56.1
+false		19.351903052	Hartner-PC:192.168.56.1
+false		59.764512457	Hartner-Laptop:192.168.0.102
+false		18.833261361	Hartner-PC:192.168.56.1
+false		52.092097115	Hartner-Laptop:192.168.0.102
+false		20.161718136	Hartner-PC:192.168.56.1
+false		16.513766887	Hartner-PC:192.168.56.1
+false		40.339236442	OnePlus
+false		40.291141026	OnePlus
+false		26.996933717	Hartner-Laptop:192.168.0.102
+false		39.86310186	OnePlus
+false		17.566359	Hartner-PC:192.168.56.1
+false		17.276306735	Hartner-PC:192.168.56.1
+false		17.335839196	Hartner-PC:192.168.56.1
+false		28.647468215	Hartner-PC:192.168.56.1
+false		22.514317797	Hartner-PC:192.168.56.1
+false		17.321267157	Hartner-PC:192.168.56.1
+false		40.069387277	OnePlus
+false		20.473339255	Hartner-PC:192.168.56.1
+false		43.941339482	Hartner-Laptop:192.168.0.102
+false		26.160252419	Hartner-Laptop:192.168.0.102
+false		25.956998336	Hartner-PC:192.168.56.1
+false		17.777552499	Hartner-PC:192.168.56.1
+false		16.783049599	Hartner-PC:192.168.56.1
+false		17.488771744	Hartner-PC:192.168.56.1
+false		21.852343077	Hartner-PC:192.168.56.1
+false		59.793916018	LG G3
+false		60.333860133	LG G3
+false		60.971739508	LG G3
+false		17.763461151	Hartner-PC:192.168.56.1
+false		61.170312997	LG G3
+false		21.974338674	Hartner-PC:192.168.56.1
+false		32.397258991	Hartner-Laptop:192.168.0.102
+false		18.767839464	Hartner-PC:192.168.56.1
+false		39.367059673	OnePlus
+false		50.389111317	Hartner-Laptop:192.168.0.102
+false		39.532221287	OnePlus
+false		18.626081046	Hartner-PC:192.168.56.1
+false		20.413518612	Hartner-PC:192.168.56.1
+false		38.63357212	OnePlus
+false		19.554934136	Hartner-PC:192.168.56.1
+false		21.491549112	Hartner-PC:192.168.56.1
+false		20.871163528	Hartner-PC:192.168.56.1
+false		29.971605449	Hartner-Laptop:192.168.0.102
+false		38.736973995	OnePlus
+false		22.129805172	Hartner-PC:192.168.56.1
+false		24.389559167	Hartner-PC:192.168.56.1
+false		19.983761773	Hartner-PC:192.168.56.1
+false		17.95915604	Hartner-PC:192.168.56.1
+false		20.056985639	Hartner-PC:192.168.56.1
+false		17.358427658	Hartner-PC:192.168.56.1
+false		21.231943157	Hartner-PC:192.168.56.1
+false		26.56815231	Hartner-Laptop:192.168.0.102
+false		19.005766265	Hartner-PC:192.168.56.1
+false		50.751436064	Hartner-Laptop:192.168.0.102
+false		26.036846281	Hartner-PC:192.168.56.1
+false		17.042049933	Hartner-PC:192.168.56.1
+false		26.290844002	Hartner-Laptop:192.168.0.102
+false		18.009323917	Hartner-PC:192.168.56.1
+false		39.200726704	OnePlus
+false		22.23327201	Hartner-PC:192.168.56.1
+false		39.704489465	OnePlus
+false		17.518458542	Hartner-PC:192.168.56.1
+false		39.967290453	OnePlus
+false		51.267815233	Hartner-Laptop:192.168.0.102
+false		20.507583417	Hartner-PC:192.168.56.1
+false		17.30278989	Hartner-PC:192.168.56.1
+false		24.661391628	Hartner-PC:192.168.56.1
+false		61.172312216	LG G3
+false		60.417555289	LG G3
+false		60.508863831	LG G3
+false		39.3204866	OnePlus
+false		60.415867998	LG G3
+false		20.280418516	Hartner-PC:192.168.56.1
+false		17.213380168	Hartner-PC:192.168.56.1
+false		17.899319306	Hartner-PC:192.168.56.1
+false		21.189409605	Hartner-PC:192.168.56.1
+false		27.540630174	Hartner-Laptop:192.168.0.102
+false		16.78775003	Hartner-PC:192.168.56.1
+false		22.056599739	Hartner-PC:192.168.56.1
+false		16.991439983	Hartner-PC:192.168.56.1
+false		19.033729239	Hartner-PC:192.168.56.1
+false		17.363196551	Hartner-PC:192.168.56.1
+false		27.545461388	Hartner-Laptop:192.168.0.102
+false		20.168642392	Hartner-PC:192.168.56.1
+false		38.441543162	OnePlus
+false		51.037229039	Hartner-Laptop:192.168.0.102
+false		38.099078996	OnePlus
+false		22.88479203	Hartner-PC:192.168.56.1
+false		24.57413961	Hartner-PC:192.168.56.1
+false		38.72714035	OnePlus
+false		17.537128319	Hartner-PC:192.168.56.1
+false		17.516622664	Hartner-PC:192.168.56.1
+false		20.522717778	Hartner-PC:192.168.56.1
+false		20.499304853	Hartner-PC:192.168.56.1
+false		50.269219222	Hartner-Laptop:192.168.0.102
+false		19.357474757	Hartner-PC:192.168.56.1
+false		38.826279255	OnePlus
+false		18.887948276	Hartner-PC:192.168.56.1
+false		37.756193721	Hartner-Laptop:192.168.0.102
+false		19.223328722	Hartner-PC:192.168.56.1
+false		18.505224717	Hartner-PC:192.168.56.1
+false		18.921859786	Hartner-PC:192.168.56.1
+false		18.992009032	Hartner-PC:192.168.56.1
+false		19.126739329	Hartner-PC:192.168.56.1
+false		25.109877928	Hartner-PC:192.168.56.1
+false		60.807519613	LG G3
+false		29.780771355	Hartner-PC:192.168.56.1
+false		60.959276852	LG G3
+false		60.6446518	LG G3
+false		60.58778482	LG G3
+false		20.00741519	Hartner-PC:192.168.56.1
+false		39.058783215	OnePlus
+false		29.497973345	Hartner-Laptop:192.168.0.102
+false		38.951358163	OnePlus
+false		44.795352764	Hartner-Laptop:192.168.0.102
+false		38.378962017	OnePlus
+false		43.795581131	Hartner-Laptop:192.168.0.102
+false		17.977487022	Hartner-PC:192.168.56.1
+false		24.596830763	Hartner-PC:192.168.56.1
+false		24.560263008	Hartner-PC:192.168.56.1
+false		29.448478747	Hartner-Laptop:192.168.0.102
+false		18.917571586	Hartner-PC:192.168.56.1
+false		21.154125064	Hartner-PC:192.168.56.1
+false		19.916009261	Hartner-PC:192.168.56.1
+false		17.868523668	Hartner-PC:192.168.56.1
+false		39.007579622	OnePlus
+false		20.935651249	Hartner-PC:192.168.56.1
+false		20.186752191	Hartner-PC:192.168.56.1
+false		17.317420445	Hartner-PC:192.168.56.1
+false		19.412504565	Hartner-PC:192.168.56.1
+false		18.497222047	Hartner-PC:192.168.56.1
+false		21.996913385	Hartner-PC:192.168.56.1
+false		20.012197541	Hartner-PC:192.168.56.1
+false		20.264058579	Hartner-PC:192.168.56.1
+false		28.542408362	Hartner-Laptop:192.168.0.102
+false		17.357141227	Hartner-PC:192.168.56.1
+false		39.174771391	OnePlus
+false		30.11865104	Hartner-Laptop:192.168.0.102
+false		39.094256652	OnePlus
+false		38.816430871	OnePlus
+false		19.010902626	Hartner-PC:192.168.56.1
+false		18.27794659	Hartner-PC:192.168.56.1
+false		18.907869376	Hartner-PC:192.168.56.1
+false		20.224996957	Hartner-PC:192.168.56.1
+false		38.899338423	OnePlus
+false		22.909982024	Hartner-PC:192.168.56.1
+false		20.61420738	Hartner-PC:192.168.56.1
+false		24.862548215	Hartner-PC:192.168.56.1
+false		60.283894508	LG G3
+false		60.441656435	LG G3
+false		60.228407061	LG G3
+false		60.233059352	LG G3
+false		20.294214367	Hartner-PC:192.168.56.1
+false		58.093788916	Hartner-Laptop:192.168.0.102
+false		58.037711433	Hartner-Laptop:192.168.0.102
+false		17.279487265	Hartner-PC:192.168.56.1
+false		30.185528085	Hartner-Laptop:192.168.0.102
+false		18.10945692	Hartner-PC:192.168.56.1
+false		17.186444992	Hartner-PC:192.168.56.1
+false		17.844398628	Hartner-PC:192.168.56.1
+false		21.72447706	Hartner-PC:192.168.56.1
+false		23.24471004	Hartner-PC:192.168.56.1
+false		22.429408973	Hartner-PC:192.168.56.1
+false		37.226494823	Hartner-Laptop:192.168.0.102
+false		38.210065037	OnePlus
+false		21.139464667	Hartner-PC:192.168.56.1
+false		38.381875297	OnePlus
+false		38.424268319	OnePlus
+false		19.08885969	Hartner-PC:192.168.56.1
+false		17.919950474	Hartner-PC:192.168.56.1
+false		28.260679389	Hartner-Laptop:192.168.0.102
+false		17.398355288	Hartner-PC:192.168.56.1
+false		21.840607504	Hartner-PC:192.168.56.1
+false		38.923065609	OnePlus
+false		21.415314992	Hartner-PC:192.168.56.1
+false		20.612098535	Hartner-PC:192.168.56.1
+false		19.340864088	Hartner-PC:192.168.56.1
+false		25.035348907	Hartner-PC:192.168.56.1
+false		18.548724921	Hartner-PC:192.168.56.1
+false		25.833926348	Hartner-Laptop:192.168.0.102
+false		19.949427499	Hartner-PC:192.168.56.1
+false		19.383960838	Hartner-PC:192.168.56.1
+false		43.070982955	Hartner-Laptop:192.168.0.102
+false		21.106937599	Hartner-PC:192.168.56.1
+false		51.378630787	Hartner-Laptop:192.168.0.102
+false		60.077171175	LG G3
+false		59.816156019	LG G3
+false		37.997472744	OnePlus
+false		60.48823706	LG G3
+false		21.259948847	Hartner-PC:192.168.56.1
+false		16.383872189	Hartner-PC:192.168.56.1
+false		59.855396956	LG G3
+false		18.032683301	Hartner-PC:192.168.56.1
+false		24.562342305	Hartner-PC:192.168.56.1
+false		38.396491078	OnePlus
+false		18.827805806	Hartner-PC:192.168.56.1
+false		32.306509843	Hartner-Laptop:192.168.0.102
+false		38.102698475	OnePlus
+false		16.788681281	Hartner-PC:192.168.56.1
+false		17.898353239	Hartner-PC:192.168.56.1
+false		38.476606599	OnePlus
+false		17.680643035	Hartner-PC:192.168.56.1
+false		18.825385373	Hartner-PC:192.168.56.1
+false		26.420303021	Hartner-PC:192.168.56.1
+true	50000000	3.9789E-5	Hartner-PC:192.168.56.1

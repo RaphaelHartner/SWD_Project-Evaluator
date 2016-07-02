@@ -9,6 +9,13 @@ public abstract class CommonEvaluator implements Evaluator
 
 	protected File folder;
 	protected File destFile;
+	protected int colCount;
+
+	@Override
+	public void setColCount(int cols)
+	{
+		this.colCount = cols;
+	}
 
 	@Override
 	public void setSourceFolder(String folder)

@@ -21,5 +21,7 @@ public interface Evaluator
 
 	void setReportFileName(String filename);
 
+	void setColCount(int cols);
+	
 	void executeEvaluation();
 }
